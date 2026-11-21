@@ -1,2 +1,2 @@
 # my-website
-My Automation projects
+Hey! I am learning Github
